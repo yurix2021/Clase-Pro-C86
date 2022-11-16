@@ -1,2 +1,1 @@
-# Clase-Pro-C86
-Archivo @Babel
+# ST-86-Solution
